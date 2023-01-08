@@ -8,8 +8,8 @@ winget install Microsoft.VisualStudioCode
 winget install Python.Python.3.11
 
 ## Setting up git account
-git config user.name "amandarolia"
-git config user.email "sei@live.in"
+git config --global user.name "amandarolia"
+git config --global user.email "sei@live.in"
 
 
 
