@@ -21,3 +21,4 @@ pm uninstall -k --user 0 com.vivo.gallery
 pm uninstall -k --user 0 com.google.android.apps.googleassistant  
 pm uninstall -k --user 0 com.android.bbk.lockscreen3  
 
+  
